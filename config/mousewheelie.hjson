@@ -1,8 +1,0 @@
-{
-	// General settings
-	general: {
-		// Enables quick swapping of armor pieces and elytra pieces by clicking them while in hand.
-		// default: true
-		enable-quick-armor-swapping: true
-	}
-}
